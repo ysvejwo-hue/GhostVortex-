@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "survival-bo2g.aternos.me",
+    "port": 30991
     "version": "",
     "try-creative": false
   },
